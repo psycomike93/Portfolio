@@ -14,7 +14,7 @@ export const Home = () => {
             Hi, I'm Mike Means
           </h1>
 
-          <p className="border border-white/40 tex-gray-400 text-lg mb-8 max-w-lg mx-auto bg-orange-500/85 rounded">
+          <p className="tex-gray-400 text-5xl mb-8 max-w-5xl mx-auto text-center ">
             I’m a full-stack developer with a focus on putting personality into web applications.
           </p>
           <div className="flex justify-center space-x-4">
